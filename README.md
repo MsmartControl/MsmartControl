@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MsmartControl
-- 👀 I’m interested in ... stuff
-- 🌱 I’m currently learning ... stuff
-- 💞️ I’m looking to collaborate on ... stuff
-- 📫 How to reach me ... stuff 
-- ⚡ Fun fact: ... stuff
+- 👀 I’m interested in ... Shoe phones
+- 🌱 I’m currently learning ... How to program apps for shoe phones
+- 💞️ I’m looking to collaborate on ... Apps for shoe phones
+- 📫 How to reach me ... Via my shoe phone
+- ⚡ Fun fact: ... there was no cellular network available when I used my shoe phone.  It wasn't real.
 
 <!---
 MsmartControl/MsmartControl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
