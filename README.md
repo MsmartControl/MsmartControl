@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MsmartControl
-- 👀 I’m interested in ... Shoe phones
+- 👀 I’m interested in ... espionage
 - 🌱 I’m currently learning ... How to program apps for shoe phones
 - 💞️ I’m looking to collaborate on ... Apps for shoe phones
 - 📫 How to reach me ... Via my shoe phone
